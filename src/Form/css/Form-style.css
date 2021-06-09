@@ -1,0 +1,96 @@
+/* --------- Label ---------  */
+.Label {
+  display: flex;
+  color: white;
+  font-size: 25px;
+  font-weight: 350;
+  padding: 10px;
+  margin-top: 15px;
+  text-transform: capitalize;
+}
+
+/* --------- InputText --------  */
+.Input {
+  height: 35px;
+  width: 310px;
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  border: 1px solid lightcyan;
+  border-radius: 5px;
+}
+
+/* --------- InputFile --------- */
+.Input-file {
+  background-color: transparent;
+  color: lightgray;
+  font-size: 15px;
+  border: 1px solid lightcyan;
+  border-radius: 5px;
+}
+
+/* --------- DateUtil ---------  */
+.Date {
+  padding: 0px;
+  margin: 0px;
+}
+.Date-heading {
+  font-size: 25px;
+  font-weight: 250;
+  color: lightgrey;
+  margin-top: 0px;
+}
+/* --------- Select ---------  */
+select option {
+  margin: 40px;
+  background-color: transparent;
+  color: lightcyan;
+}
+select option[value='op1'] {
+  background-color: transparent;
+  color: black;
+}
+select option[value='op2'] {
+  background-color: transparent;
+  color: black;
+}
+select option[value='op2'] {
+  background-color: transparent;
+  color: black;
+}
+
+.Option-select {
+  height: 45px;
+  width: 310px;
+  background-color: transparent;
+  color: white;
+  opacity: 0.6;
+  font-size: 20px;
+  border: 1px solid lightcyan;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* --------- Radio ---------  */
+.Radio-button {
+  font-weight: 250;
+}
+.Radio-button > input {
+  height: 25px;
+  width: 30px;
+  background-color: transparent;
+  color: lightgray;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+/* --------- Range ---------  */
+.Range > input {
+  height: 25px;
+  width: 300px;
+  background-color: transparent;
+  color: lightgray;
+  opacity: 0.6;
+  cursor: pointer;
+}

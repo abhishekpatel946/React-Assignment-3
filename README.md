@@ -1,70 +1,103 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-In the project directory, you can run:
 
-### `npm start`
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h1 align="center">React Assignment Day_3</h1>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React_Training_Day_3_Assignment](#react_training_day_3_assignment)
+    - [Link to our application:](#link-to-our-application)
+  - [Built Using](#built-using)
+  - [Getting Started](#getting-started)
+  - [Usage](#usage)
+    - [Gallery](#gallery)
+  - [Road map](#road-map)
+  - [Contribution](#contribution)
+      - [Steps to follow:](#steps-to-follow)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- ABOUT THE PROJECT -->
+# [React_Training_Day_3_Assignment](https://brave-bohr-6cd135.netlify.app/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Component for Input text
 
-### `npm run eject`
+- Component for Input file
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Component for Getting Date
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Component For Select Options
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Component for showing options in the Radio button
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Components for range
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Link to our application:
+https://brave-bohr-6cd135.netlify.app/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+Status: live and running
+```
+## Built Using
+This section should list any major frameworks that you built using your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples:
+* [React](https://reactjs.org/docs/getting-started.html)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<!-- GETTING STARTED -->
+## Getting Started
 
-### Analyzing the Bundle Size
+This is an example of how to set up your project locally.
+To get a local copy up and running on your system follow these simple example steps.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- USAGE EXAMPLES -->
+## Usage
 
-### Making a Progressive Web App
+### Gallery
+![Main-Screeen](https://github.com/abhishekpatel946/React-Assignment-3/blob/master/src/Assets/demo.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- ROAD MAP -->
+## Road map
 
-### Deployment
+See the [open issues](https://github.com/abhishekpatel946/React-Assignment-3/issues) for a list of proposed features (and known issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- CONTRIBUTING -->
+## Contribution
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+#### Steps to follow:
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/abhishekpatel946/React-Assignment-3.svg?style=flat
+[contributors-url]: https://github.com/abhishekpatel946/React-Assignment-3/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/abhishekpatel946/React-Assignment-3.svg?style=flat
+[forks-url]: https://github.com/abhishekpatel946/UReact-Assignment-3/network/members
+[stars-shield]: https://img.shields.io/github/stars/abhishekpatel946/RReact-Assignment-3.svg?style=flat
+[stars-url]: https://github.com/abhishekpatel946/React-Assignment-3/stargazers
+[issues-shield]: https://img.shields.io/github/issues/abhishekpatel946/React-Assignment-3.svg?style=flat
+[issues-url]: https://github.com/abhishekpatel946/React-Assignment-3/issues
