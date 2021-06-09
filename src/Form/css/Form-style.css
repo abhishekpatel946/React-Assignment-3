@@ -28,6 +28,7 @@
   font-size: 15px;
   border: 1px solid lightcyan;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 /* --------- DateUtil ---------  */
