@@ -30,7 +30,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-# [React_Training_Day_3_Assignment](https://brave-bohr-6cd135.netlify.app/)
+# [React_Training_Day_3_Assignment](https://suspicious-hermann-10ed0a.netlify.app)
 
 - Component for Input text
 
@@ -46,7 +46,7 @@
 
 
 ### Link to our application:
-https://brave-bohr-6cd135.netlify.app/
+https://suspicious-hermann-10ed0a.netlify.app
 
 ```sh
 Status: live and running
