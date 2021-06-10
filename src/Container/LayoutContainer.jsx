@@ -1,10 +1,10 @@
 import React from 'react';
 import DateUtils from '../Utils/DateUtil';
-import InputText from '../Form/InputText';
-import InputFile from '../Form/InputFile';
-import Options from '../Form/Options';
-import RadioBtn from '../Form/RadioButton';
-import Range from '../Form/Range';
+import InputText from '../Components/Form/InputText';
+import InputFile from '../Components/Form/InputFile';
+import Options from '../Components/Form/Options';
+import RadioBtn from '../Components/Form/RadioButton';
+import Range from '../Components/Form/Range';
 import './layout-style.css';
 
 const LayoutContainer = () => {

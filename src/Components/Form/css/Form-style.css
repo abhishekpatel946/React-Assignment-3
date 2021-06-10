@@ -48,18 +48,6 @@ select option {
   background-color: transparent;
   color: lightcyan;
 }
-select option[value='op1'] {
-  background-color: transparent;
-  color: black;
-}
-select option[value='op2'] {
-  background-color: transparent;
-  color: black;
-}
-select option[value='op2'] {
-  background-color: transparent;
-  color: black;
-}
 
 .Option-select {
   height: 45px;
@@ -71,6 +59,11 @@ select option[value='op2'] {
   border: 1px solid lightcyan;
   border-radius: 5px;
   cursor: pointer;
+}
+
+.Option-select-option {
+  background-color: transparent;
+  color: black;
 }
 
 /* --------- Radio ---------  */

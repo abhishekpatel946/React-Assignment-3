@@ -1,6 +1,5 @@
 import React from 'react';
-import Label from '../Form/Label';
-// import '../css/main.css';
+import Label from '../Components/Form/Label';
 
 const DateUtil = () => {
   // date method for current localDate (dd-mm-yyyy)
