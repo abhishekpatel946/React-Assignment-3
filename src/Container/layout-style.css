@@ -1,0 +1,11 @@
+.Layout-heading > h2 {
+  font-size: 40px;
+  font-weight: 350;
+}
+
+.Layout-container {
+  width: 360px;
+  border-radius: 15px 15px 15px 15px;
+  border: 1px solid white;
+  background-color: rgb(64, 68, 71);
+}
