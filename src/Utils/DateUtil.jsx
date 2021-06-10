@@ -1,9 +1,15 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import Label from '../Components/Form/Label';
 
 const DateUtil = () => {
-  // date method for current localDate (dd-mm-yyyy)
-  const today = new Date().toLocaleDateString();
+  // state for current Date
+  const [today, setToday] = useState('');
+
+  // handle the date change
+  useEffect(() => {
+    // date method for current localDate (dd-mm-yyyy)
+    setToday(new Date().toLocaleDateString());
+  }, []);
 
   return (
     <div className='Date'>
