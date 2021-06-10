@@ -2,7 +2,6 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
 
@@ -66,7 +65,7 @@ To get a local copy up and running on your system follow these simple example st
 ## Usage
 
 ### Gallery
-![Main-Screeen](https://github.com/abhishekpatel946/React-Assignment-3/blob/master/src/Assets/demo.png)
+![Main-Screeen](https://github.com/abhishekpatel946/React-Assignment-3/blob/react_assignment_3/src/Assets/demo.png)
 
 
 
